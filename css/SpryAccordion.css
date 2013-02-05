@@ -1,0 +1,52 @@
+@charset "UTF-8";
+.Accordion {
+	overflow:hidden;
+	width:908px;
+	margin-left:-50px;
+}
+.AccordionPanel {
+	margin:0;
+	padding:0;
+}
+.AccordionPanelTab {
+	font-family:"Trebuchet MS", Helvetica, Verdana, Arial, sans-serif;
+	font-size:14px;
+	color:#00000;
+	cursor:pointer;
+	border-top:solid;
+	font-weight:700;
+	background-position:0 0;
+	background-repeat:no-repeat;
+	background-color:#EEE;
+	-moz-user-select:none;
+	-khtml-user-select:none;
+	border-color:#CCC;
+	border-width:1px;
+	margin:0;
+	padding:10px 30px 10px 55px;
+}
+.AccordionPanelContent {
+	overflow:auto;
+	color:#000;
+	background-color:#EEE;
+	zoom:1px;
+	margin:0;
+	padding:0;
+}
+.AccordionPanelOpen .AccordionPanelTab {
+	background-position:0 -120px;
+	color:#4682B4;
+}
+.AccordionPanelTabHover {
+	background-position:0 -60px;
+	color:#000;
+}
+.AccordionPanelOpen .AccordionPanelTabHover {
+	background-position:0 -180px;
+}
+.AccordionPanelContent .acontent {
+	padding:20px 30px 20px 55px;
+}
+.AccordionFocused .AccordionPanelTab, .AccordionFocused .AccordionPanelOpen .AccordionPanelTab {
+	background-color:#EEE;
+}
