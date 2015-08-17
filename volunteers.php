@@ -86,7 +86,7 @@ Development team.</p>
         <div class="AccordionPanel">
             <div class="AccordionPanelTab"> <a name="fun"></a>Project Development Team </div>
             <div class="AccordionPanelContent">
-                <div class="acontent"> <img src="http://i.imgur.com/Fdo6N.jpg" />
+                <div class="acontent">
                     <p>The project development team is a very important part of STEP. Through Corporate sponsorship and event fundraising STEP is able to fund it's large solar projects and various community educational initiatives. Volunteers in this section use and obtain valuable business skills in speech communication, proposal writing, documentation writing, and presentation skills.</p>
                     <h2>Contacts</h2>
                     <!--div class="col2">
@@ -131,10 +131,7 @@ Development team.</p>
             <div class="AccordionPanelContent">
                 <div class="acontent">
                     <div>Thanks for all your help!<br /><br /></div>
-                    <div class="col2">
-                        <img src="img/mugshots/Leah Korganowski.JPG" class="imgfloat avatar" /><br /><br />
-                        Leah Korganowski
-                    </div>
+              
                     <div class="col2">
                         <img src="img/mugshots/Andrew Martson.JPG" class="imgfloat avatar" /><br /><br />
                         Andrew Marston
