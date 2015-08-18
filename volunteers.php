@@ -23,7 +23,7 @@ Development team.</p>
         <div class="AccordionPanel">
             <div class="AccordionPanelTab"> <a name="eng"></a>Engineering Team </div>
             <div class="AccordionPanelContent">
-                <div class="acontent"> <img src="http://i.imgur.com/CXqM9.jpg" />
+                <div class="acontent"> 
                     <p>STEP's Engineering section is varied from our large long-term projects, to our smaller hands on projects. Volunteers in this section are involved in the building and design of our bike generators, our solar cooker projects, as well as the creation and execution of student engineering workshops.</p>
                     <h2>Contacts</h2>
                     <div class="col2">
@@ -132,8 +132,7 @@ Development team.</p>
                 <div class="acontent">
                     <div>Thanks for all your help!<br /><br /></div>
                     <div class="col2">
-                        <img src="img/mugshots/Leah Korganowski.JPG" class="imgfloat avatar" /><br /><br />
-                        Leah Korganowski
+                       
                     </div>
                     <div class="col2">
                         <img src="img/mugshots/Andrew Martson.JPG" class="imgfloat avatar" /><br /><br />
